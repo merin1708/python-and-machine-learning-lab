@@ -1,75 +1,7 @@
 # python-and-machine-learning-lab
 💻 A collection of algorithms, explanations, and Python implementations for KTU S5 AIML – AML 311 Machine Learning Lab. Includes all core experiments such as Linear Regression, Polynomial Regression, Naive Bayes, Decision Tree, SVM, K-Means, PCA, KNN, Backpropagation, and Ensemble Methods.
 
-This repository contains all Machine Learning Lab experiments from KTU S5 AIML (AML 311).
-Each experiment includes:
-
-✅ Aim of the experiment
-
-🧮 Algorithm (KTU format)
-
-💻 Python code implementation
-
-📊 Output / Visualizations
-
-❓ Viva questions and answers
-
-This repo helps students learn, practice, and revise important ML algorithms easily.
-
-📂 Folder Structure
-KTU-S5-AIML-AML311-Machine-Learning-Lab/
-│
-├── 01_Linear_Regression/
-│   ├── Algorithm.txt
-│   ├── linear_regression.py
-│   ├── output.png
-│
-├── 02_Multiple_Linear_Regression/
-│   ├── Algorithm.txt
-│   ├── multiple_regression.py
-│   ├── output.png
-│
-├── 03_Polynomial_Regression/
-│   ├── Algorithm.txt
-│   ├── polynomial_regression.py
-│
-├── 04_Naive_Bayes/
-│   ├── Algorithm.txt
-│   ├── naive_bayes.py
-│   ├── confusion_matrix.png
-│
-├── 05_Decision_Tree/
-│   ├── Algorithm.txt
-│   ├── decision_tree.py
-│   ├── tree_visualization.png
-│
-├── 06_SVM/
-│   ├── Algorithm.txt
-│   ├── svm_iris.py
-│   ├── svm_boundary.png
-│
-├── 07_PCA/
-│   ├── Algorithm.txt
-│   ├── pca_visualization.py
-│   ├── pca_3d_plot.png
-│
-├── 08_KMeans/
-│   ├── Algorithm.txt
-│   ├── kmeans_clustering.py
-│   ├── elbow_method.png
-│
-├── 09_KNN/
-│   ├── Algorithm.txt
-│   ├── knn_classifier.py
-│
-├── 10_Backpropagation/
-│   ├── Algorithm.txt
-│   ├── backpropagation_nn.py
-│
-└── 11_Voting_Ensemble/
-    ├── Algorithm.txt
-    ├── voting_classifier.py
-
+This repository contains all Machine Learning Lab experiments from KTU S5 AIML (AML 311)
 🧩 Experiments List
 No.	Experiment	Type
 1	Linear Regression	Supervised
@@ -80,9 +12,9 @@ No.	Experiment	Type
 6	Support Vector Machine (SVM)	Supervised
 7	Principal Component Analysis (PCA)	Unsupervised (Dimensionality Reduction)
 8	K-Means Clustering	Unsupervised
-9	K-Nearest Neighbors (KNN)	Supervised
+9	K-Nearest Neighbors (KNN)	Supervised(not included)
 10	Backpropagation Neural Network	Supervised (Deep Learning)
-11	Voting Ensemble Classifier	Ensemble Learning
+11	Voting Ensemble Classifier	Ensemble Learning (not included)
 ⚙️ Technologies Used
 
 🐍 Python 3.x
