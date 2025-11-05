@@ -117,6 +117,5 @@ This repository is created for **educational and reference purposes** to help AI
 Each program is structured with clear code, comments, and outputs for better understanding.
 
 ---
-
-## 🧩 Folder Structure Example
+Created by Merin Babu for KTU S5 AIML Machine Learning Lab (AML 311)
 
